@@ -7,7 +7,7 @@ long_description = "na"
 
 setuptools.setup(
     name='MyOwnFunctions',
-    version='0.0.1',
+    version='0.0.2',
     author='Axel Wieslander Jansson',
     author_email='axl_wieslander@hotmail.com',
     description='Good to have things',
