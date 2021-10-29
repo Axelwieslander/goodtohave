@@ -1,2 +1,2 @@
 from .functions import getInputBetween
-from functions import getBestPlayer
+from .functions import getBestPlayer
